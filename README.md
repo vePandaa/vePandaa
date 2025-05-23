@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vePandaa
-- 🌱 I’m currently learning Flask for python and Web Development, im currently in the early stages of learning html!
-- 📫 How to reach me | Discord - Pandaa#9895
+- Im a Junior Developer who is learning cybersecurity practises by completing:
+- AZ-900, SC-900, CompTIA Network+, CompTIA Security+, CEH
 
